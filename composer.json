@@ -19,7 +19,7 @@
         "php": ">=7.2.5",
         "illuminate/support": ">=7.0",
         "laravelcollective/html": "^6.1",
-        "illuminate/translation": "^7.2",
+        "illuminate/translation": ">=7.2",
         "doctrine/dbal": "^2.10",
         "symfony/finder": "^5.0"
     },
